@@ -39,6 +39,7 @@ summary:focus-visible,a:focus-visible{outline:2px solid var(--violet);outline-of
 .body h3{font:700 15px/1.5 'Noto Sans KR',sans-serif;color:var(--sand);margin:22px 0 4px}
 .body p{margin:0 0 12px;font-size:14.5px}
 .body p.note{color:#8e8b94}
+.num{color:var(--sand)}
 .btn{display:inline-block;padding:15px 30px;background:var(--blood);color:#fff;text-decoration:none;font-weight:700;border-radius:4px;border:1px solid var(--ember);transition:background .2s}
 .btn:hover,.btn:focus-visible{background:var(--ember)}
 .links{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:14px}
